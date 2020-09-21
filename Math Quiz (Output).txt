@@ -1,0 +1,6 @@
+09/15/2020 15:04:19 => [Debug] Execution started for file: Main
+09/15/2020 15:04:20 => [Info] Math Quiz execution started
+09/15/2020 15:04:28 => [Info] Results
+Correct answers: 1
+Incorrect answers: 0
+09/15/2020 15:04:28 => [Info] Math Quiz execution ended in: 00:00:07
